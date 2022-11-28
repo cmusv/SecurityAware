@@ -4,7 +4,7 @@
 
 ### $ our vision
 
-<img src="https://raw.githubusercontent.com/cmusv/SecurityAware/f17970d85c78fba1d775dc7975116e5fa4a38f48/docs/assets/architecture.svg?token=ABTLT5MEHSC7Q3KJNDJGJYLDQEJRE">
+<img src="https://raw.githubusercontent.com/cmusv/SecurityAware/c767018fe5a417daf0296ce01a7cccba4b16585c/docs/assets/architecture.svg">
 
 We have been exploring several different threads under the SecurityAware project:
 
